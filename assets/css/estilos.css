@@ -7,8 +7,14 @@ body {
 }
 /* Hero Section */
 
+.links-hero button a{
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: 600;
+}
+
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/bg-hero2.0.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
