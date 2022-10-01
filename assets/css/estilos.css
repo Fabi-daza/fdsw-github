@@ -29,6 +29,13 @@ body {
   background-position: center;
 }
 
+#Mis-trabajos .row .card {
+  height: 500px;
+}
+
+#Mis-trabajos .row .card .card-text{
+  height: 120px;
+}
 /* Contacto */
 
 #Contacto form label {
